@@ -12,7 +12,7 @@ order: 0
 - Tenure track lecturer at Mahidol University
 - Contact: please see [contact](/contact) page
 
-Titipat Achakulvisut runs the biomedical and data lab (BioDat lab) at the Department of Biomedical Engineering, Mahidol University, Nakhon Pathom, Thailand. He completed his Ph.D. in Bioengineering at University of Pennsylvania with [Konrad Kording](http://kordinglab.com/) working on applying natural language processing and machine learning to improve scientific processes. His interests are to combine NLP, ML, and tools to improve science itself. In extension to his core research, he also broadly interests in applying ML and NLP in biomedical and business domains in Thailand where he collaborate with multiple research groups and companies in Thailand pushing NLP and ML for real use cases.
+Dr. Linda Shi is the Project Scientist and Lab Coordinator at the Cellular Biophotonics Lab. She has been working at the UCSD Biophotonics Lab since 2004. Her current research interests mainly focus on the cellular or subcellular responses to the laser ablation and laser trapping through the collaborations with different research labs at UCSD, UCI, UCSF, Scripps Institutes and Salk Institute.
 
 ## Positions and previous work
 
